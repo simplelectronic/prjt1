@@ -1,0 +1,10 @@
+background:
+-blue sky like Minecraft
+-clouds in sky
+Steve + pig
+Header:
+-cobblestone grey
+Body:
+-dirt
+Footer:
+-Nether
